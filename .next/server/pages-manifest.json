@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/farmer-dashboard": "pages/farmer-dashboard.js",
+  "/": "pages/index.js",
+  "/admin-dashboard": "pages/admin-dashboard.js",
+  "/api/reports": "pages/api/reports.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js"
+}
