@@ -13,10 +13,10 @@ export default function Navbar() {
                 <div className="flex justify-between h-16">
                     <div className="flex items-center gap-2">
                         <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center text-white font-bold text-lg">
-                            F
+                            T
                         </div>
                         <Link href="/" className="text-xl font-bold text-gray-900 tracking-tight">
-                            Farmer<span className="text-primary-600">Care</span>
+                            Terra<span className="text-primary-600">Mind</span>
                         </Link>
                     </div>
 

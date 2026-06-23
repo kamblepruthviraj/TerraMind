@@ -9,9 +9,9 @@ export default function Home() {
             <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex mb-12">
                 <div className="flex items-center gap-3">
                     <div className="w-10 h-10 bg-primary-600 rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-primary-600/20">
-                        F
+                        T
                     </div>
-                    <h1 className="text-3xl font-bold text-gray-900 tracking-tight">Farmer<span className="text-primary-600">Care</span></h1>
+                    <h1 className="text-3xl font-bold text-gray-900 tracking-tight">Terra<span className="text-primary-600">Mind</span></h1>
                 </div>
             </div>
 
